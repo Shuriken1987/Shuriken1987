@@ -1,4 +1,5 @@
-Hi, I'm Milan Stanojevic!👋
+#Hi, I'm Milan Stanojevic!👋
+
 I’m a frontend-focused software developer passionate about enhancing performance and user engagement in web applications.
 
 ## About Me
@@ -7,16 +8,12 @@ My goal is to leverage digital solutions to solve practical challenges and contr
 
 ## Technical Skills 🛠️
 **Languages:** JavaScript, TypeScript, PHP
-
 **Frameworks & Libraries:** React, Next.js, Node.js, Express.js
-
 **Tools & Platforms:** GitHub, Trello, Vercel
-
 **Web Technologies:** HTML5, CSS3, Tailwind CSS, Bootstrap, SCSS
 
 ## Professional Goals 🚀
 **Career Development:** Focused on advancing my career in software development, particularly in roles that utilize my technical skills to build impactful tech solutions.
-
 **Continuous Learning:** Dedicated to continuous professional growth by keeping up with the latest tech trends and enhancing my coding expertise. 📈
 
 ## Connect with Me 📬 
