@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Milan Stanojevic!👋
 
-<!--
-**Shuriken1987/Shuriken1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a frontend-focused software developer passionate about enhancing performance and user engagement in web applications.
 
-Here are some ideas to get you started:
+## About Me
+With a background as a professional basketball player and significant experience in full-stack development, I bring a unique combination of discipline, teamwork, and problem-solving skills to the programming world. 
+My goal is to leverage digital solutions to solve practical challenges and contribute to team success through effective communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills 🛠️
+**Languages:** JavaScript, TypeScript, PHP
+
+**Frameworks & Libraries:** React, Next.js, Node.js, Express.js
+
+**Tools & Platforms:** GitHub, Trello, Vercel
+
+**Web Technologies:** HTML5, CSS3, Tailwind CSS, Bootstrap, SCSS
+
+## Professional Goals 🚀
+**Career Development:** Focused on advancing my career in software development, particularly in roles that utilize my technical skills to build impactful tech solutions.
+
+**Continuous Learning:** Dedicated to continuous professional growth by keeping up with the latest tech trends and enhancing my coding expertise. 📈
+
+## Connect with Me 📬 
+[📫 Email](mailto:stanojevicmilan17@yahoo.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/milan-stanojevic-b728461a6)  
+
+I’m excited to collaborate on projects that blend technology with social impact. Let’s connect! 🌍
