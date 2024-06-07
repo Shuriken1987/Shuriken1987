@@ -1,5 +1,4 @@
-# Hi, I'm Milan Stanojevic!👋
-
+Hi, I'm Milan Stanojevic!👋
 I’m a frontend-focused software developer passionate about enhancing performance and user engagement in web applications.
 
 ## About Me
