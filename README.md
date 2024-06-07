@@ -2,7 +2,7 @@
 
 I’m a frontend-focused software developer passionate about enhancing performance and user engagement in web applications.
 
-## About Me
+## About Me 🧑‍💻
 With a background as a professional basketball player and significant experience in full-stack development, I bring a unique combination of discipline, teamwork, and problem-solving skills to the programming world. 
 My goal is to leverage digital solutions to solve practical challenges and contribute to team success through effective communication.
 
@@ -25,7 +25,7 @@ My goal is to leverage digital solutions to solve practical challenges and contr
 [📫 Email](mailto:stanojevicmilan17@yahoo.com)  
 [🔗 LinkedIn](https://www.linkedin.com/in/milan-stanojevic-b728461a6)  
 
-## GitHub Stats
+## GitHub Stats 📊
 ![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuriken1987&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuriken1987&layout=compact&theme=radical)
 
