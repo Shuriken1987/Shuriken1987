@@ -20,6 +20,12 @@ My goal is to leverage digital solutions to solve practical challenges and contr
 
 **Continuous Learning:** Dedicated to continuous professional growth by keeping up with the latest tech trends and enhancing my coding expertise. 📈
 
+## GitHub Stats
+(https://github-readme-stats.vercel.app/api?username=shuriken1987&show_icons=true&theme=radical)
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=shuriken1987&layout=compact&theme=radical)
+
+
 ## Connect with Me 📬 
 [📫 Email](mailto:stanojevicmilan17@yahoo.com)  
 [🔗 LinkedIn](https://www.linkedin.com/in/milan-stanojevic-b728461a6)  
