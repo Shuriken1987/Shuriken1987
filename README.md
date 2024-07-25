@@ -11,9 +11,15 @@ My goal is to leverage digital solutions to solve practical challenges and contr
 
 **Frameworks & Libraries:** React, Next.js, Node.js, Express.js
 
-**Tools & Platforms:** GitHub, Trello, Vercel
+**Tools & Platforms:** GitHub, Trello, Vercel, Figma, Storyblok
 
 **Web Technologies:** HTML5, CSS3, Tailwind CSS, Bootstrap, SCSS
+
+**Databases:** MongoDB, PostgreSQL
+
+**APIs:** REST API, GraphQL
+
+**Testing:** Jest, Cypress
 
 ## Professional Goals 🚀
 **Career Development:** Focused on advancing my career in software development, particularly in roles that utilize my technical skills to build impactful tech solutions.
