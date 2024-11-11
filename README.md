@@ -3,7 +3,7 @@
 I’m a frontend-focused software developer passionate about enhancing performance and user engagement in web applications.
 
 ## About Me 🧑‍💻
-With a background as a professional basketball player and significant experience in full-stack development, I bring a unique combination of discipline, teamwork, and problem-solving skills to the programming world. 
+With significant experience in full-stack development, I bring a unique combination of discipline, teamwork, and problem-solving skills to the programming world. 
 My goal is to leverage digital solutions to solve practical challenges and contribute to team success through effective communication.
 
 ## Technical Skills 🛠️
